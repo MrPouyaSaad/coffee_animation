@@ -1,6 +1,6 @@
-# coffee_animation
+# Coffee Animation
 
-A new Flutter project.
+Loading Animation for Online Coffee Shop
 
 ## Getting Started
 
